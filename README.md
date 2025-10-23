@@ -25,7 +25,6 @@ Item tooltips are modified to display icons of the professions that can use the 
 <img width="141" height="129" alt="1" src="https://github.com/user-attachments/assets/9dd23794-aba8-45eb-9e63-104f56ea9b29" />
 <img width="156" height="129" alt="2" src="https://github.com/user-attachments/assets/04155261-58c1-42e6-b98f-1ac39b4024cb" />
 <img width="162" height="127" alt="3" src="https://github.com/user-attachments/assets/960bb3a0-a445-4f85-9c6a-6742dd0fdfa3" />
-<img width="166" height="127" alt="4" src="https://github.com/user-attachments/assets/a08d7dda-4c6b-4981-9bdc-623e75f84914" />
 <img width="154" height="130" alt="5" src="https://github.com/user-attachments/assets/24c31cfb-6026-4163-89f0-93b3ebdcfa01" />
 <img width="154" height="127" alt="7" src="https://github.com/user-attachments/assets/74399eb9-767e-4acf-a215-4391925b995a" />
   </p>
