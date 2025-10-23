@@ -33,5 +33,10 @@ Item tooltips are modified to display icons of the professions that can use the 
   </p>
 </details>
 
+### Installation
+1.  Download the addon.
+2.  Unzip and rename the addon. Remove ```-main``` from the addon name.
+3.  Place the addon folder into `[Game Folder]\Interface\AddOns`.
+
 #### Source:
 - <b>original author'n'repository</b>: [bytespire](https://github.com/bytespire), [ItemTooltipProfessionIcons](https://github.com/bytespire/ItemTooltipProfessionIcons).
