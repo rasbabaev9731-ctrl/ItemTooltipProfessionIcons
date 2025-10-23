@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: ItemTooltipProfessionIcons |cffffffffby Helphrey|r
+## Notes: Displays which professions and quests may use the item via the item's tooltip
+## Author: Bytespire
+## Backport Author: Helphrey
+## SavedVariables: ItemTooltipIconsConfig
+## Version: v1.0.0-WOTLK_3.3.5a
+
+ItemProfConstants.lua
+ItemTooltipProfessionIcons.lua
+ItemTooltipProfessionConfigFrame.lua
