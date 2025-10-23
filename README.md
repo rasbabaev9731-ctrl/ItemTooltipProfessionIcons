@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > ⚠️ This addon is  for private servers of World of Warcraft: Wrath of the Lich King and other classic expansions (WOW, TBC, WOTLK) based on client v3.3.5a.
 > 
-> ⚠️ The ```ItemProfConstants.lua``` file may be missing information for some items. I'll add a short guide in the future so every player can edit item information in ```ItemProfConstants.lua```.
+> ⚠️ The `ItemProfConstants.lua` file may be missing information for some items. I'll add a short guide in the future so every player can edit item information in `ItemProfConstants.lua`.
 > 
 > ⚠️ I'm not the best programmer, so **there may be some bugs**, although I've tried to fix them. This version works well on Warmane.
 
@@ -32,7 +32,7 @@ Item tooltips are modified to display icons of the professions that can use the 
 
 ### Installation
 1.  Download the addon.
-2.  Unzip and rename the addon. Remove ```-main``` from the addon name.
+2.  Unzip and rename the addon. Remove `-main` from the addon name.
 3.  Place the addon folder into `[Game Folder]\Interface\AddOns`.
 
 #### Source:
