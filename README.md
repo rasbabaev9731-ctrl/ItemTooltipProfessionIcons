@@ -11,8 +11,6 @@
 > 
 > ⚠️ I'm not the best programmer, so **there may be some bugs**, although I've tried to fix them. This version works well on Warmane.
 
-![GitHub Latest Pre-Release)](1111) 
-
 #### Description:
 Item tooltips are modified to display icons of the professions that can use the item as a crafting ingredient [(more information)](https://github.com/bytespire/ItemTooltipProfessionIcons). Displays profession icons for the following expansions:
 - <b>World of Warcraft</b> ![WoW_Icon_update](https://github.com/user-attachments/assets/15dcf4d3-fd8b-4884-a997-82eca6dc1fa5)
